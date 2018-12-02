@@ -27,7 +27,7 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 # YOU ARE NOT PREPARED #
 
-![Surprise Face](https://giphy.com/gifs/Ry5HyACeR44ZW/html5.gif)
+![Surprise Face](https://media.giphy.com/media/Ry5HyACeR44ZW/giphy.gif)
 
 
 
