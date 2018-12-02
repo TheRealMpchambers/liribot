@@ -19,19 +19,25 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 * Start command line and navigate to the folder containing your LIRIbot code.
 
-* Enter the phrase 'node liri.js spotify-this-song _name of song_ (in this instance we will use) All The Small Things'.
+> ![FirstStep](/images/1stpic.png)
 
+* Enter the phrase 'node liri.js spotify-this-song _name of song_ (in this instance we will use) All The Small Things'.
+* You will notice a phrase that pops up saying 'all your bases are belonging to us'.  This means you request is loading.
 * The information this will return will be song name, artist, and album.
+
+> ![SecondStep](/images/3rdpic.png)
 
 * If you are lazy and want the best song of all enter the phrase 'node liri.js spotify-this-song'.  
 
+> ![FourthStep](/images/4thpic.png)
+
 # YOU ARE NOT PREPARED #
 
-![Surprise Face](https://media.giphy.com/media/Ry5HyACeR44ZW/giphy.gif)
+> ![Surprise Face](https://media.giphy.com/media/Ry5HyACeR44ZW/giphy.gif)
 
-### The Rollest of Ricks ###
+### NOT THAT RICK...THIS RICk ###
 
-![The One and Only](https://media.giphy.com/media/fRB9j0KCRe0KY/giphy.gif)
+> ![The One and Only](https://media.giphy.com/media/fRB9j0KCRe0KY/giphy.gif)
 
 
 
