@@ -1,6 +1,6 @@
-#Welcome to the LiriBot App#
+# Welcome to the LiriBot App #
 
-##This REadMe is important to read because it explains things about the App##
+## This REadMe is important to read because it explains things about the App ##
 
 LIRI Bot is long for LIRI.  LIRI is fashioned after SIRI.  SIRI stands for Speech Interpretation and Recognition Interface, 
 while LIRI stands for Language Interpretation and Recognition Interface.  LIRI utilizes the command line and node to return
