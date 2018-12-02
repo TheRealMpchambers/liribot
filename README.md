@@ -29,15 +29,18 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 * If you are lazy and want the best song of all enter the phrase 'node liri.js spotify-this-song'.  
 
-> ![FourthStep](/images/4thpic.PNG)
-
 # YOU ARE NOT PREPARED #
 
 > ![Surprise Face](https://media.giphy.com/media/Ry5HyACeR44ZW/giphy.gif)
 
 ### THE ROLLEST OF RICKS ###
 
-> ![The One and Only](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
+> ![The One and Only](https://media.giphy.com/media/LrmU6jXIjwziE/giphy.gif)
+
+> ![FourthStep](/images/4thpic.PNG)
+
+
+
 
 
 
