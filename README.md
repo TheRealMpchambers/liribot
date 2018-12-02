@@ -25,9 +25,9 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 * If you are lazy and want the best song of all enter the phrase 'node liri.js spotify-this-song'.  
 
-#YOU ARE NOT PREPARED#
+# YOU ARE NOT PREPARED #
 
-https://giphy.com/gifs/Ry5HyACeR44ZW/html5
+![Surprise Face](https://giphy.com/gifs/Ry5HyACeR44ZW/html5.gif)
 
 
 
