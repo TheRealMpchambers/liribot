@@ -35,6 +35,10 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 ### THE ROLLEST OF RICKS ###
 
+> ![WrongRick](https://media.giphy.com/media/wFbI8gwCfCxeo/giphy.gif)
+
+### NOT THAT RICK....THIS RICK ###
+
 > ![The One and Only](https://media.giphy.com/media/LrmU6jXIjwziE/giphy.gif)
 
 > ![FourthStep](/images/4thpic.PNG)
