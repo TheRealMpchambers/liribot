@@ -37,7 +37,7 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 ### THE ROLLEST OF RICKS ###
 
-> ![The One and Only](https://media.giphy.com/media/fRB9j0KCRe0KY/giphy.gif)
+> ![The One and Only](https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif)
 
 
 
