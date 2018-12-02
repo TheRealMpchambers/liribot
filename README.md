@@ -35,7 +35,7 @@ Prior to using this app npm packages will need to be downloaded to the same fold
 
 > ![Surprise Face](https://media.giphy.com/media/Ry5HyACeR44ZW/giphy.gif)
 
-### NOT THAT RICK...THIS RICk ###
+### THE ROLLEST OF RICKS ###
 
 > ![The One and Only](https://media.giphy.com/media/fRB9j0KCRe0KY/giphy.gif)
 
